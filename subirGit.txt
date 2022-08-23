@@ -1,0 +1,4 @@
+git init
+git status para comprobar qué archivos se van a meter en el commit
+git add .
+git commit -m "descripcion"
